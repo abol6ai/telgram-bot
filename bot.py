@@ -126,7 +126,7 @@ def cancel(update: Update, context: CallbackContext):
 
 def main():
     # استبدل "YOUR_TOKEN" بالتوكن الخاص بك
-    updater = Updater("YOUR_TOKEN", use_context=True)
+    updater = Updater("8041851526:AAFASVPf-RdWx-pJTf3Ob-dUECkWnIsxVwI", use_context=True)
 
     # إضافة المعالجين
     dp = updater.dispatcher
